@@ -1,0 +1,7 @@
+name: Pi2
+depend:
+  standard-library
+include:
+  .
+  basic-hott/lib
+  basic-hott/scratch

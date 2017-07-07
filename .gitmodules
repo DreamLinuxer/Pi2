@@ -1,0 +1,3 @@
+[submodule "basic-hott"]
+	path = basic-hott
+	url = git@github.com:vikraman/basic-hott.git
